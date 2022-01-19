@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\FATEC\\CURSOS\\GITHUB\\PROJETOS-C#\\demo\\demo.csproj": {}
+    "E:\\FATEC\\CURSOS\\GITHUB\\PROJETOS-C#\\demo\\demo.csproj": {}
   },
   "projects": {
-    "e:\\FATEC\\CURSOS\\GITHUB\\PROJETOS-C#\\demo\\demo.csproj": {
+    "E:\\FATEC\\CURSOS\\GITHUB\\PROJETOS-C#\\demo\\demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\FATEC\\CURSOS\\GITHUB\\PROJETOS-C#\\demo\\demo.csproj",
+        "projectUniqueName": "E:\\FATEC\\CURSOS\\GITHUB\\PROJETOS-C#\\demo\\demo.csproj",
         "projectName": "demo",
-        "projectPath": "e:\\FATEC\\CURSOS\\GITHUB\\PROJETOS-C#\\demo\\demo.csproj",
+        "projectPath": "E:\\FATEC\\CURSOS\\GITHUB\\PROJETOS-C#\\demo\\demo.csproj",
         "packagesPath": "C:\\Users\\Doni\\.nuget\\packages\\",
-        "outputPath": "e:\\FATEC\\CURSOS\\GITHUB\\PROJETOS-C#\\demo\\obj\\",
+        "outputPath": "E:\\FATEC\\CURSOS\\GITHUB\\PROJETOS-C#\\demo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Doni\\AppData\\Roaming\\NuGet\\NuGet.Config",
